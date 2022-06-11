@@ -232,7 +232,7 @@ footer .credit{
 /* media query result for phone */
 @media only screen and (min-width: 480px) {
     body{
-        background: linear-gradient(to right top, #f3b6f0, #f706ff);
+        background: linear-gradient(to right top, #00FFFF, #FFA500);
         width: 100%;
         min-height: 100vh;
     }
